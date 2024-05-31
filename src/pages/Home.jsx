@@ -24,7 +24,7 @@ const navigate = useNavigate()
                     <h1 className='sm:text-white sm:font-bold sm:text-[50px]
                     text-white font-bold text-[20px] 
                     '>
-                        We can make your choices esier!
+                        We can make your choices easier!
                     </h1>
                     <p className='sm:mt-[30px] sm:text-white sm:font-bold sm:text-[30px]
                     mt-[10px]   text-white font-bold text-[10px]
